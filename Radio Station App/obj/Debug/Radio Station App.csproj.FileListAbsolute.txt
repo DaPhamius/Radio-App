@@ -1,0 +1,15 @@
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\bin\Debug\Radio Station App.exe.config
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\bin\Debug\Radio Station App.exe
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\bin\Debug\Radio Station App.pdb
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio Station App.csprojAssemblyReference.cache
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio Station App.csproj.ResolveComReference.cache
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio_Station_App.Form1.resources
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio_Station_App.Properties.Resources.resources
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio Station App.csproj.GenerateResource.cache
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio Station App.csproj.CoreCompileInputs.cache
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio Station App.exe
+C:\Users\Dan Pham\source\repos\Radio Station App\Radio Station App\obj\Debug\Radio Station App.pdb
